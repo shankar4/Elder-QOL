@@ -2,6 +2,8 @@
 Build Apps useful for improving the Quality of Life of Senior Citizens
 Initially, I plan to document good resources and topics. I will then use them to identify needs and build apps. 
 
+Degradome: it is defined as the complete set of proteases present in an organism. The recent availability of WGS (Whole Genome Sequences) from multiple organisms has led to predict the contents of the degradomes for many mammalian species. Here is the [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2686449/)
+
 Livability: TIME magazine of February 26, 2018 was focused on Longevity. The [Miliken Institute](http://successfulaging.milkeninstitute.org/) ranks metropolitan areas based on livability of elder citizens. My almamater city, Madison, WI, comes in second. 
 
 Taxes: [Kiplinger's Retirement Report](https://www.kiplinger.com/) of February 2018 (need to subscribe) provides an actionable idea based on the new federal tax code: Convert funds in a traditional IRA to a Roth IRA to take advantage of the lower, albeit temporary, income tax 2017-2025. Tax rates may increase later. Funds in the Roth IRA will grow tax deferred and will be tax free for later withdrawal. it is also tax free to pass it on to children. <br><br>
